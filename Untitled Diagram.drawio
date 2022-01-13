@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T17:02:53.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jl1OojaZu_39QICxg2s3" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T18:32:23.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dXAzDWJW1zGxL7gxSq4E" version="16.2.6" type="github">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="906" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="670" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-16" value="App7" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="680" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="VVBchH5EMKtEPRIQPdoM-19" target="VVBchH5EMKtEPRIQPdoM-7">
           <mxGeometry relative="1" as="geometry">
@@ -90,7 +90,8 @@
               <mxPoint x="400" y="-40" />
               <mxPoint x="400" y="-10" />
               <mxPoint x="570" y="-10" />
-              <mxPoint x="570" y="165" />
+              <mxPoint x="570" y="220" />
+              <mxPoint x="670" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -117,14 +118,14 @@
         <mxCell id="VVBchH5EMKtEPRIQPdoM-19" value="Roles: [ Role1, Role2 ]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="-60" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VVBchH5EMKtEPRIQPdoM-30" value="READ CHECK :KO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="120" width="130" height="30" as="geometry" />
+        <mxCell id="VVBchH5EMKtEPRIQPdoM-30" value="READ CHECK : KO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="133" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-47" value="ROLE CHECK: KO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="182" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-48" value="MERCHANT_PORTAL_APP" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="180" height="180" as="geometry" />
+          <mxGeometry x="340" y="478" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-49" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="VVBchH5EMKtEPRIQPdoM-48">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -142,7 +143,7 @@
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-52" value="MERCHANT_PORTAL_DOMAIN" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="570" width="210" height="120" as="geometry">
+          <mxGeometry x="620" y="668" width="210" height="120" as="geometry">
             <mxRectangle x="470" y="570" width="210" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -156,7 +157,7 @@
           <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-56" value="MERCHANT_PORTAL_AUTHORITY" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="585" width="225" height="210" as="geometry" />
+          <mxGeometry x="25" y="683" width="225" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-57" value="APP_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="VVBchH5EMKtEPRIQPdoM-56">
           <mxGeometry y="30" width="225" height="30" as="geometry" />
@@ -183,22 +184,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-82" value="ROLE CHECK : OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="182" width="130" height="30" as="geometry" />
+          <mxGeometry x="740" y="210" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-83" value="READ CHECK : OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="205" width="130" height="30" as="geometry" />
+          <mxGeometry x="740" y="233" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-84" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="930" y="110" width="220" height="220" as="geometry" />
+          <mxGeometry x="930" y="110" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-85" value="Domain4" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="80" width="220" height="30" as="geometry" />
+          <mxGeometry x="930" y="80" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-86" value="App8" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVBchH5EMKtEPRIQPdoM-87" value="ROLE CHECK :KO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="120" width="130" height="30" as="geometry" />
+          <mxGeometry x="940" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVBchH5EMKtEPRIQPdoM-89" value="ROLE CHECK : OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
