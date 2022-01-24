@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:36:41.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QFEVUVP1bjpSGe-AOeB5" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T16:48:22.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jWYDiqXX8S6dtmVOZ8HD" version="16.4.5" type="github" pages="2">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
-    <mxGraphModel dx="844" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="766" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,65 +204,76 @@
         <mxCell id="VVBchH5EMKtEPRIQPdoM-89" value="ROLE CHECK : OK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="110" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-1" target="YFlyBdM_wxRN_G0KEgHs-2">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-1" target="YFlyBdM_wxRN_G0KEgHs-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-1" value="&lt;br&gt;Front" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-1" value="&lt;br&gt;Front" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="-980" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-2" target="YFlyBdM_wxRN_G0KEgHs-4">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-2" target="YFlyBdM_wxRN_G0KEgHs-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-2" value="API Merchant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-2" value="API Merchant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-4" target="YFlyBdM_wxRN_G0KEgHs-2">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-4" target="YFlyBdM_wxRN_G0KEgHs-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-4" value="API Test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-4" value="API Test" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-8" value=".JSON" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-8" value=".JSON" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="710" y="-960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-730" width="230" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-14" value="NuxtJS (latest : 2.15.8)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-14" value="NuxtJS (latest : 2.15.8)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-760" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-15" value="Vuex (state managment)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-15" value="Vuex (state managment)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="-710" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-16" value="Vue router" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-16" value="Vue router" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="-658" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-17" target="YFlyBdM_wxRN_G0KEgHs-24">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-17" target="YFlyBdM_wxRN_G0KEgHs-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-17" value="UI Framework : Vuetify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-17" value="UI Framework : Vuetify" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="-490" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-18" target="YFlyBdM_wxRN_G0KEgHs-22">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-18" target="YFlyBdM_wxRN_G0KEgHs-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-18" value="module : axios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-18" value="module : axios" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="177.5" y="-601.5" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YFlyBdM_wxRN_G0KEgHs-19" target="YFlyBdM_wxRN_G0KEgHs-20">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YFlyBdM_wxRN_G0KEgHs-19" target="YFlyBdM_wxRN_G0KEgHs-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-19" value="module : cookie-universal-nuxt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-19" value="module : cookie-universal-nuxt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="-546" width="195" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-20" value="Gestion des cookies (authentification, lambda edge, ..)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-20" value="Gestion des cookies (authentification, lambda edge, ..)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-548" width="310" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-22" value="HTTP request (POST, GET, ..)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-22" value="HTTP request (POST, GET, ..)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-602" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YFlyBdM_wxRN_G0KEgHs-24" value="Material Design Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YFlyBdM_wxRN_G0KEgHs-24" value="Material Design Framework" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="-490" width="310" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y5iptL3OJa3rG3_7PP-f" name="Page-2">
+    <mxGraphModel dx="766" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cAEltZpP4rAgEG6T_6JC-0" />
+        <mxCell id="cAEltZpP4rAgEG6T_6JC-1" parent="cAEltZpP4rAgEG6T_6JC-0" />
+        <mxCell id="cAEltZpP4rAgEG6T_6JC-2" value="calculHmacShaSign256" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cAEltZpP4rAgEG6T_6JC-1">
+          <mxGeometry x="330" y="200" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
