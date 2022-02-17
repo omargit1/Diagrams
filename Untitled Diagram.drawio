@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T13:20:28.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="XiBckdh0_Bo63lnKiNzs" version="16.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-17T13:24:19.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="AE7so01QCx6FY57f-yLX" version="16.5.3" type="github" pages="7">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="861" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -917,10 +917,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="csjpQk98H5Dn4aE2Ms12-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="csjpQk98H5Dn4aE2Ms12-1" source="csjpQk98H5Dn4aE2Ms12-16" target="csjpQk98H5Dn4aE2Ms12-17">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="505" />
+              <mxPoint x="920" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="csjpQk98H5Dn4aE2Ms12-16" value="AuthenticationRequestDTO extends" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
-          <mxGeometry x="680" y="490" width="230" height="30" as="geometry" />
+          <mxGeometry x="730" y="490" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="csjpQk98H5Dn4aE2Ms12-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="csjpQk98H5Dn4aE2Ms12-1" source="csjpQk98H5Dn4aE2Ms12-17" target="csjpQk98H5Dn4aE2Ms12-20">
           <mxGeometry relative="1" as="geometry" />
