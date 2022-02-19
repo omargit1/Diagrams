@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T20:11:39.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="w3mlYE8k5zEoejE84JqE" version="16.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-19T20:22:45.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="YYurLgnKiFe9GcWKExfG" version="16.6.1" type="github" pages="8">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="766" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1068,6 +1068,27 @@
         </mxCell>
         <mxCell id="lFKe89F7wTkp9kXorAMp-13" value="&lt;h1 class=&quot;home-panel-title gl-mt-3 gl-mb-2 gl-font-size-h1 gl-line-height-24 gl-font-weight-bold gl-ml-3&quot; itemprop=&quot;name&quot; style=&quot;box-sizing: border-box ; margin-top: 0.5rem ; margin-bottom: 0.25rem ; line-height: 1.5rem ; color: rgb(48 , 48 , 48) ; font-size: 1.4375rem ; margin-left: 0.5rem ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;noto sans&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34; ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ipayment-gateway-services&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=11;" parent="csjpQk98H5Dn4aE2Ms12-1" vertex="1">
           <mxGeometry x="1130" y="490" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-0" value="productId&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-1" value="productType" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-2" value="merchantCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-3" value="amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-4" value="currency" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-5" value="paymentDateTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="115" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YAjbkVVEeLNKS8fSBKW-6" value="AdditionalProduct" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="csjpQk98H5Dn4aE2Ms12-1">
+          <mxGeometry x="90" y="1150" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
