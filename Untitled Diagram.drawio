@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T10:45:51.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZJJv84ptRxHxz8BU37v7" version="16.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-23T14:08:33.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RPTPytlukGYWk-Dsqpv3" version="16.6.1" type="github" pages="8">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="1662" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1404,6 +1404,9 @@
         </mxCell>
         <mxCell id="E9HjWdvEwn0dZhH-77u5-4" value="1.1.1-SNAPSHOT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2Zt6vFTiOv04kp2m8q0h-1">
           <mxGeometry x="-270" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E9HjWdvEwn0dZhH-77u5-5" value="REC2 feature 1.1.SNAP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2Zt6vFTiOv04kp2m8q0h-1">
+          <mxGeometry x="-720" y="670" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
