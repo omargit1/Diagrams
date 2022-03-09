@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T15:45:02.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kpgLGgN6DsPXgFox5s9a" version="16.6.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-09T08:43:57.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dZqDuswWN8yrPGsIr1jA" version="16.6.7" type="github" pages="10">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="738" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1663,6 +1663,18 @@
         </mxCell>
         <mxCell id="A8NQY_4xlW6nMYZFNDVe-43" value="10jr" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AFq0GMEUXrLjjolQvms5-1">
           <mxGeometry x="320" y="2480" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8NQY_4xlW6nMYZFNDVe-45" value="frictioneless : trs approuve par issuer , tu es fiable exemption : montant tres bas pas d&#39;authen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AFq0GMEUXrLjjolQvms5-1">
+          <mxGeometry x="90" y="2620" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8NQY_4xlW6nMYZFNDVe-46" value="1 phase commit:&amp;nbsp; 1er appel =&amp;gt; gu, pp =&amp;gt; valide&lt;br&gt;2 phase commit : 1er appel qu pp si Ok , 2eme appel pour valider/persist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AFq0GMEUXrLjjolQvms5-1">
+          <mxGeometry x="390" y="2620" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8NQY_4xlW6nMYZFNDVe-47" value="tars: relie le systeme accor: tous les env de données" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AFq0GMEUXrLjjolQvms5-1">
+          <mxGeometry x="710" y="2620" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8NQY_4xlW6nMYZFNDVe-48" value="payment, messages, common" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AFq0GMEUXrLjjolQvms5-1">
+          <mxGeometry x="515" y="2750" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
