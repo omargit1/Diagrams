@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T13:03:18.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="p1HIu5iC5BG9jxizpc1p" version="17.1.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-15T13:07:05.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="G8yuY8CQ2ljajvBD_Znw" version="17.1.2" type="github" pages="12">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="766" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1865,8 +1865,8 @@
         <mxCell id="uuGVPCY3uK5nqcV2GedU-15" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="k92ZW2FXFPrqt-rFijt7-1">
           <mxGeometry x="365" y="1310" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="uuGVPCY3uK5nqcV2GedU-16" value="WS updateTransactionStatus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k92ZW2FXFPrqt-rFijt7-1">
-          <mxGeometry x="250" y="1300" width="60" height="30" as="geometry" />
+        <mxCell id="uuGVPCY3uK5nqcV2GedU-16" value="WS&amp;nbsp;&lt;span style=&quot;color: rgb(33 , 33 , 33) ; font-family: &amp;#34;inter&amp;#34; , , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;cantarell&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;payment/v1/transaction/status&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="k92ZW2FXFPrqt-rFijt7-1">
+          <mxGeometry x="220" y="1300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
