@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T09:19:54.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VUa-5q74gHhWzqJU48E1" version="17.1.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-03-23T09:20:15.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="i-j0vNQaCXW0gl1FbWp7" version="17.1.3" type="github" pages="13">
   <diagram id="B3T2ok7oCwddM9JErL32" name="Page-1">
     <mxGraphModel dx="1022" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1897,7 +1897,7 @@
         <mxCell id="7VpRr4PWuerWCFi5JfkU-6" value="UPDATE Table1 SET COL1=val1 , COl2=VAL2&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7VpRr4PWuerWCFi5JfkU-1">
           <mxGeometry x="290" y="180" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7VpRr4PWuerWCFi5JfkU-7" value="WHERE COL3=val3 , COl4=VAL4&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7VpRr4PWuerWCFi5JfkU-1">
+        <mxCell id="7VpRr4PWuerWCFi5JfkU-7" value="WHERE COL3=val3 and COl4=val4 and COL5=val5&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7VpRr4PWuerWCFi5JfkU-1">
           <mxGeometry x="300" y="210" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7VpRr4PWuerWCFi5JfkU-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="7VpRr4PWuerWCFi5JfkU-1">
